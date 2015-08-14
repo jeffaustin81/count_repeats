@@ -1,4 +1,8 @@
-// First Spec originally passed but expected boolean return and test for spec one was commented out for further testing
+// First Spec originally passed but expected boolean return and as further testing would expect an integer return I commented out the test for spec one. Wasn't sure how I could
+get it to pass when I could only have one return?
+
+###### I had some issues writing specs, I couldn't think of how to break this down further. I also am not as sure on my commit messages, unsure if I'm writting to much or to little. I did attempt to make more commits then I usaully do. I think these are the hardest for me, writing specs and what to say in my commits.
+
 ###First Spec
 ####Searches for a word input inside of a string input and returns true
 
