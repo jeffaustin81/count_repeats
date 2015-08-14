@@ -15,7 +15,7 @@ _This application allows a user to input a sentence and then search for how many
 * _Run composer install from the root folder of this clone in your terminal_
 * _Navigate to the web folder in the terminal_
 * _Run php -S localhost:8000_
-* _Enter http://localhost:8000 in your browser and enjoy!
+* _Enter http://localhost:8000 in your browser and enjoy!_
 
 ## Technologies Used
 
