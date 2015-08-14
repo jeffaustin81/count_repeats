@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>Word Search Counter</title>
+	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css'>
+</head>
+<body>
+	<div class='container'>
+		<h1>Word Search Calculator</h1>
+		<h2>Enter a sentence or paragraph:</h2>
+		<form action='/scrabble_score'>
+			<div class='form-group'>
+				<label for='sentence'>Enter Sentence or Paragraph: </label>
+				<input id='sentence' name='sentence' class='form-control' type='text'>
+			</div>
+			<div class='form-group'>
+				<label for='word'>Enter the Word you want to Search: </label>
+				<input id='word' name='word' class='form-control' type='text'>
+			</div>
+			<br>
+			<br>
+			<button type='submit' class='btn-success'>Search</button>
+		</form>
+	</div>
+</body>
+</html>
