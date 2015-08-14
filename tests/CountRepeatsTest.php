@@ -1,7 +1,7 @@
 <?php 
 	require_once "src/CountRepeats.php";
 	
-	class CountRepeatsTest extends PHPUnit_Framework_Test
+	class CountRepeatsTest extends PHPUnit_Framework_TestCase
 	{
 		function test_countWord_wordtrue()
 		{
@@ -11,7 +11,9 @@
 			
 			$result = $test_CountRepeats->countWord($input1, $input2);
 			
-			$this->assertsEquals(true, $result);
+			var_dump($sentence);
+			
+			$this->assertEquals(true, $result);
 		}
 	}
 ?>
