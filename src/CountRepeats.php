@@ -7,14 +7,18 @@ class CountRepeats
 		strtolower($input2);
 		
 		$sentence = explode(" ", $input1);
+		$sentence = preg_replace("/[^A-Za-z]/", "", $sentence);
 		$word = $input2;
+		$word_count = array($word => 1);
 		
-		if(in_array($word, $sentence)) 
-		{
-			return true;
-		}else {
-			return false;
+		$count = 0;
+		
+		foreach($sentence as $index) {
+			$count += $word_count[$index];
 		}
+		
+		return $count;
+		
 	}
 }
 ?>

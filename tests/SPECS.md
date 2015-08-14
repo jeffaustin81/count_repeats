@@ -1,14 +1,14 @@
-###First Spec
-####Searches for a word input inside of a string input and returns true
+// ###First Spec
+// ####Searches for a word input inside of a string input and returns true
 
-#####_INPUT1: "The quick brown fox jumped over the fence"_
+// #####_INPUT1: "The quick brown fox jumped over the fence"_
 
-#####_INPUT2: "fox"_
+// #####_INPUT2: "fox"_
 
-#####_OUTPUT: true_
+// #####_OUTPUT: true_
  
- ###Second Spec
- ####Searches for a word inside a string that has two instances of that word and returns the number of times it is inside that string
+//  ###Second Spec
+//  ####Searches for a word inside a string that has two instances of that word and returns the number of times it is inside that string
  
  #####_INPUT1: "Where is the nearest diner? Is there a diner on 5th and Washington?"_
  
