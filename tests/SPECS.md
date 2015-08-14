@@ -31,7 +31,7 @@ get it to pass when I could only have one return?
  #####_OUTPUT: 2_
  
 ###Fourth Spec
- ####Searches for a word inside a string that has multiple instances of that word and returns the number of times it is inside that string
+ ####Searches for a word inside a string that has multiple instances of that word and returns the number of times it is inside that string also allows capitalized letters
  
  #####_INPUT1: "Where is Portland? How many times have you been to Portland? What is Portland like?"_
  
