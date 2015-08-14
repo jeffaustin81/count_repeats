@@ -1,7 +1,7 @@
 // First Spec originally passed but expected boolean return and as further testing would expect an integer return I commented out the test for spec one. Wasn't sure how I could
 get it to pass when I could only have one return?
 
-###### I had some issues writing specs, I couldn't think of how to break this down further. I also am not as sure on my commit messages, unsure if I'm writting to much or to little. I did attempt to make more commits then I usaully do. I think these are the hardest for me, writing specs and what to say in my commits.
+###### I had some issues writing specs, I couldn't think of how to break this down further. I also am not as sure on my commit messages, unsure if I'm writting to much or to little. I did attempt to make more commits then I usaully do. I think these are the hardest for me, writing specs and what to say in my commits. I also had some issues with my function in Silex even after passing tests. I left the original pieces of code to the function in commented out to see. I would love to know what was going on? There are further comments in the function.
 
 ###First Spec
 ####Searches for a word input inside of a string input and returns true
