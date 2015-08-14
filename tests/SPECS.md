@@ -9,7 +9,7 @@
 #####_OUTPUT: true_
  
  ###Second Spec
- ####Searches for a word inside a string that has two instances of that word and returns the number of times it is inside that string
+ ####Searches for a word inside a string that has two instances of that word and returns the number of times it is inside that string also allows special characters
  
  #####_INPUT1: "Where is the nearest diner? Is there a diner on 5th and Washington?"_
  
