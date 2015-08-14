@@ -3,6 +3,10 @@ class RepeatCounter
 {
 	function countWord($input1, $input2) 
 	{
+		if($input1 === "" || $input2 === "") {
+			return "You didn't fill in one or both text fields!"
+		}
+		
 		// This sets both inputs to lowercase
 		// to avoid cap issues
 		$input1_low = strtolower($input1);
