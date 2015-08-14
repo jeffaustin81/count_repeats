@@ -1,6 +1,6 @@
 # Word Search Counter
 
-##### _Searches a word in sentence and returns how many times that word appears, 8/14/2015_
+##### _Searches a word in a sentence and returns how many times that word appears, 8/14/2015_
 
 #### By _**Jeff Austin**_
 
