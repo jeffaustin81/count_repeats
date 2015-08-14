@@ -25,7 +25,7 @@ get it to pass when I could only have one return?
  
 ###Third Spec
 
-####Searches for a word inside a string that has coumpound words that contain that word and still returns the proper number of times that word exists
+####Searches for a word inside a string that has compound words that contain that word and still returns the proper number of times that word exists
  
 #####_INPUT1: "How much wood would a woodchuck chuck if a woodchuck could chuck wood"_
  
