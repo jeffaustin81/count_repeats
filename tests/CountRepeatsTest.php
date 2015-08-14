@@ -41,7 +41,7 @@
 			$this->assertEquals(2, $result);
 		}
 		
-		function test_countWord_wordcount2()
+		function test_countWord_wordcount3()
 		{
 			$test_CountRepeats = new CountRepeats;
 			$input1 = "Where is Portland? How many times have you been to Portland? What is Portland like?";
