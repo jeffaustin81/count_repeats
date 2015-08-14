@@ -9,10 +9,12 @@
 	<div class="container">
 	{% if results is empty %}
 	<h1>You didn't fill out the form correctly!</h1>
+	{% elseif results == 1 %}
+	<h1>Your word showed up {{ results }} time in your sentence!</h1>
 	{% else %}
 	<h1>Your word showed up {{ results }} times in your sentence!</h1>
-	</div>
 	{% endif %}
+	</div>
 </body>
 </html>
 
