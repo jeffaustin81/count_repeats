@@ -47,8 +47,8 @@ class RepeatCounter
 			// undefined error for the first index
 			// of $sentence...
 			
-			// $count += $word_count[$index];
-			
+		// 	$count += $word_count[$index];
+		// }	
 			// Added an if check instead
 			if($index === $word) {
 				$count++;

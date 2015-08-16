@@ -1,4 +1,7 @@
 <?php 
+	// Yeah I originally named my class CountRepeats
+	// and forgot to change it in my test
+	
 	require_once "src/RepeatCounter.php";
 	
 	class RepeatCounterTest extends PHPUnit_Framework_TestCase
