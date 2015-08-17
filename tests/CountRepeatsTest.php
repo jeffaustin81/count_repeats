@@ -13,11 +13,11 @@
 		// not sure how I could of avoided it?
 		// function test_countWord_wordtrue()
 		// {
-		// 	$test_CountRepeats = new CountRepeats;
+		// 	$test_RepeatCounter = new RepeatCounter;
 		// 	$input1 = "The quick brown fox jumped over the fence";
 		// 	$input2 = "fox";
 			
-		// 	$result = $test_CountRepeats->countWord($input1, $input2);
+		// 	$result = $test_RepeatCounter->countWord($input1, $input2);
 			
 		// 	$this->assertEquals(true, $result);
 		// }
